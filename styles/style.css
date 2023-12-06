@@ -1,0 +1,1097 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 192rem;
+}.Adnova {
+  box-sizing: border-box;
+  padding-bottom: 3.9rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.Adnova .auto-group-83gq-hGx {
+  margin-bottom: 8.1911rem;
+  width: 100%;
+  height: 430.0089rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.Adnova .auto-group-83gq-hGx .body1-i5a {
+  width: 192.5rem;
+  height: 197.8715rem;
+  position: absolute;
+  left: 0;
+  top: 232.0374rem;
+}
+.Adnova .auto-group-83gq-hGx .body1-i5a .rectangle-11-yGQ {
+  width: 192rem;
+  height: 197.6706rem;
+  position: absolute;
+  left: 0.5rem;
+  top: 0.2009rem;
+  background: linear-gradient(180deg, #e8eeff -0%, rgba(232, 238, 255, 0) 100%);
+}
+.Adnova .auto-group-83gq-hGx .body1-i5a .ellipse-3-nje {
+  width: 81.7278rem;
+  height: 70.7774rem;
+  position: absolute;
+  left: 2.186rem;
+  top: 121.2729rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.Adnova .auto-group-83gq-hGx .body1-i5a .ellipse-4-h5v {
+  width: 67.6135rem;
+  height: 61.3195rem;
+  position: absolute;
+  left: 124.4rem;
+  top: 58.8626rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.Adnova .auto-group-83gq-hGx .body1-i5a .ellipse-5-Dpx {
+  width: 89.0471rem;
+  height: 80.4635rem;
+  position: absolute;
+  left: 0;
+  top: 12.355rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.Adnova .auto-group-83gq-hGx .body1-i5a .rectangle-34-y3S {
+  width: 157.4rem;
+  height: 31.9245rem;
+  position: absolute;
+  left: 17.8rem;
+  top: 126.995rem;
+  box-shadow: 1.2rem 0 3.7rem rgba(0, 0, 0, 0.200000003);
+  background-color: #eaf0ff;
+  border-radius: 2.8rem 55.915rem 8.3rem 8.3rem;
+}
+.Adnova .auto-group-83gq-hGx .body1-i5a .rectangle-39-DTa {
+  width: 157.4rem;
+  height: 31.9245rem;
+  position: absolute;
+  left: 17.8rem;
+  top: 64.15rem;
+  box-shadow: 1.2rem 0 3.7rem rgba(0, 0, 0, 0.200000003);
+  background-color: #eaf0ff;
+  border-radius: 2.8rem 55.915rem 8.3rem 8.3rem;
+}
+.Adnova .auto-group-83gq-hGx .body1-i5a .rectangle-41-grx {
+  width: 157.4rem;
+  height: 31.9245rem;
+  position: absolute;
+  left: 17.8rem;
+  top: 0;
+  box-shadow: 1.2rem 0 3.7rem rgba(0, 0, 0, 0.200000003);
+  background-color: #eaf0ff;
+  border-radius: 2.8rem 55.915rem 8.3rem 8.3rem;
+}
+.Adnova .auto-group-83gq-hGx .body1-i5a .rectangle-35-bDE {
+  width: 157.4rem;
+  height: 31.9245rem;
+  position: absolute;
+  left: 17.8rem;
+  top: 158.9197rem;
+  border: solid 0.1rem #eaf0ff;
+  box-sizing: border-box;
+  box-shadow: -1.2rem 0 3.7rem rgba(31, 22, 131, 0.200000003);
+  background-color: #eaf0ff;
+  border-radius: 2.8rem 55.915rem 8.3rem 8.3rem;
+}
+.Adnova .auto-group-83gq-hGx .body1-i5a .rectangle-38-35E {
+  width: 157.4rem;
+  height: 31.9245rem;
+  position: absolute;
+  left: 17.8rem;
+  top: 95.0706rem;
+  border: solid 0.1rem #eaf0ff;
+  box-sizing: border-box;
+  box-shadow: -1.2rem 0 3.7rem rgba(31, 22, 131, 0.200000003);
+  background-color: #eaf0ff;
+  border-radius: 2.8rem 55.915rem 8.3rem 8.3rem;
+}
+.Adnova .auto-group-83gq-hGx .body1-i5a .rectangle-40-Jmr {
+  width: 157.4rem;
+  height: 31.9245rem;
+  position: absolute;
+  left: 17.8rem;
+  top: 31.9245rem;
+  border: solid 0.1rem #eaf0ff;
+  box-sizing: border-box;
+  box-shadow: -1.2rem 0 3.7rem rgba(31, 22, 131, 0.200000003);
+  background-color: #eaf0ff;
+  border-radius: 2.8rem 55.915rem 8.3rem 8.3rem;
+}
+.Adnova .auto-group-83gq-hGx .body1-i5a .item--Zxg {
+  width: 71.2rem;
+  height: 13.1rem;
+  position: absolute;
+  left: 28.9rem;
+  top: 99.9898rem;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.Adnova .auto-group-83gq-hGx .body1-i5a .html-css-javascript-php--65S {
+  width: 92.9rem;
+  height: 11.7rem;
+  position: absolute;
+  left: 28.9rem;
+  top: 110.3302rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.6999999881);
+  font-family: Inter, 'Source Sans Pro';
+}
+.Adnova .auto-group-83gq-hGx .body1-i5a .item--qSL {
+  width: 65rem;
+  height: 8.8rem;
+  position: absolute;
+  left: 95.4rem;
+  top: 131.814rem;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.Adnova .auto-group-83gq-hGx .body1-i5a .item-4-6--q4x {
+  width: 78.8rem;
+  height: 11.7rem;
+  position: absolute;
+  left: 95.4rem;
+  top: 142.6563rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.6999999881);
+  font-family: Inter, 'Source Sans Pro';
+}
+.Adnova .auto-group-83gq-hGx .body1-i5a .item--5tQ {
+  width: 66.6rem;
+  height: 8.8rem;
+  position: absolute;
+  left: 28.8rem;
+  top: 163.2364rem;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.Adnova .auto-group-83gq-hGx .body1-i5a .item--VSL {
+  width: 106.6rem;
+  height: 11.7rem;
+  position: absolute;
+  left: 28.8rem;
+  top: 174.0787rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.6999999881);
+  font-family: Inter, 'Source Sans Pro';
+}
+.Adnova .auto-group-83gq-hGx .body1-i5a .faq-7ME {
+  width: 7rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 59.6rem;
+  top: 14.1552rem;
+  font-size: 3.6rem;
+  font-weight: 400;
+  line-height: 1.175;
+  color: #4600db;
+  font-family: Raleway, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.Adnova .auto-group-83gq-hGx .body1-i5a .item--cHz {
+  width: 63.6rem;
+  height: 8.5rem;
+  position: absolute;
+  left: 28.8rem;
+  top: 37.0444rem;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.175;
+  color: #000000;
+  font-family: Raleway, 'Source Sans Pro';
+}
+.Adnova .auto-group-83gq-hGx .body1-i5a .seo--bvc {
+  width: 99rem;
+  height: 11.3rem;
+  position: absolute;
+  left: 28.8rem;
+  top: 47.3848rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.175;
+  color: rgba(0, 0, 0, 0.6999999881);
+  font-family: Raleway, 'Source Sans Pro';
+}
+.Adnova .auto-group-83gq-hGx .body1-i5a .item--Npt {
+  width: 55.4rem;
+  height: 8.8rem;
+  position: absolute;
+  left: 90rem;
+  top: 67.8647rem;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.Adnova .auto-group-83gq-hGx .body1-i5a .item-10--bSk {
+  width: 80.6rem;
+  height: 11.7rem;
+  position: absolute;
+  left: 90.5rem;
+  top: 78.7069rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.6999999881);
+  font-family: Inter, 'Source Sans Pro';
+}
+.Adnova .auto-group-83gq-hGx .body1-i5a .item--aT6 {
+  width: 58.9rem;
+  height: 7.6rem;
+  position: absolute;
+  left: 67.05rem;
+  top: 12.363rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 6.4rem;
+  font-weight: 600;
+  line-height: 1.175;
+  color: #000000;
+  font-family: Raleway, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.Adnova .auto-group-83gq-hGx .body-pMS {
+  box-sizing: border-box;
+  padding: 0.1rem 0rem 10.804rem 0rem;
+  width: 192rem;
+  height: 128.6rem;
+  position: absolute;
+  left: 0;
+  top: 103.7rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #e7eeff;
+}
+.Adnova .auto-group-83gq-hGx .body-pMS .auto-group-yzvt-GjE {
+  margin: 0rem 0.458rem 4.317rem 0rem;
+  width: 191.5421rem;
+  height: 73.4237rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.Adnova .auto-group-83gq-hGx .body-pMS .auto-group-yzvt-GjE .item--ZiL {
+  width: 111.3rem;
+  height: 7.6rem;
+  position: absolute;
+  left: 40.5994rem;
+  top: 14.2075rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 6.4rem;
+  font-weight: 700;
+  line-height: 1.175;
+  color: #000000;
+  font-family: Raleway, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.Adnova .auto-group-83gq-hGx .body-pMS .auto-group-yzvt-GjE .features-zYk {
+  width: 15.1rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 88.6994rem;
+  top: 6.1699rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.175;
+  color: #4600db;
+  font-family: Raleway, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.Adnova .auto-group-83gq-hGx .body-pMS .auto-group-yzvt-GjE .item--hCG {
+  width: 87.8rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 52.3494rem;
+  top: 23.6855rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.175;
+  color: #000000;
+  font-family: Raleway, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.Adnova .auto-group-83gq-hGx .body-pMS .auto-group-yzvt-GjE .rectangle-12-U6Y {
+  width: 69.6187rem;
+  height: 4.4172rem;
+  position: absolute;
+  left: 100.7377rem;
+  top: 67.601rem;
+  filter: blur(6.925rem);
+  background-color: #bb83f9;
+  border-radius: 2.5rem;
+}
+.Adnova .auto-group-83gq-hGx .body-pMS .auto-group-yzvt-GjE .rectangle-13-9Ta {
+  width: 69.6187rem;
+  height: 4.4172rem;
+  position: absolute;
+  left: 19.1501rem;
+  top: 67.601rem;
+  filter: blur(6.925rem);
+  background-color: #ff72e4;
+  border-radius: 2.5rem;
+}
+.Adnova .auto-group-83gq-hGx .body-pMS .auto-group-yzvt-GjE .rectangle-7-4aY {
+  width: 79.0623rem;
+  height: 39.9558rem;
+  position: absolute;
+  left: 14.4623rem;
+  top: 33.468rem;
+  background-color: #ffffff;
+  border-radius: 2.5rem;
+}
+.Adnova .auto-group-83gq-hGx .body-pMS .auto-group-yzvt-GjE .heart-nWY {
+  width: 7.8972rem;
+  height: 7.0021rem;
+  position: absolute;
+  left: 16.7714rem;
+  top: 35.5761rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.Adnova .auto-group-83gq-hGx .body-pMS .auto-group-yzvt-GjE .item--vMr {
+  width: 47.7rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 26.1rem;
+  top: 37.0894rem;
+  display: flex;
+  font-size: 3.2rem;
+  font-weight: 600;
+  line-height: 1.175;
+  color: #000000;
+  font-family: Raleway, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.Adnova .auto-group-83gq-hGx .body-pMS .auto-group-yzvt-GjE .item--Mxx {
+  width: 60.8rem;
+  height: 16.5rem;
+  position: absolute;
+  left: 25.9153rem;
+  top: 43.1056rem;
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 1.175;
+  color: #000000;
+  font-family: Raleway, 'Source Sans Pro';
+}
+.Adnova .auto-group-83gq-hGx .body-pMS .auto-group-yzvt-GjE .rectangle-8-Yg4 {
+  width: 79.0623rem;
+  height: 39.9558rem;
+  position: absolute;
+  left: 98.974rem;
+  top: 33.468rem;
+  background-color: #ffffff;
+  border-radius: 2.5rem;
+}
+.Adnova .auto-group-83gq-hGx .body-pMS .auto-group-yzvt-GjE .heart-5R6 {
+  width: 6.608rem;
+  height: 6.7093rem;
+  position: absolute;
+  left: 101.9044rem;
+  top: 35.7721rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.Adnova .auto-group-83gq-hGx .body-pMS .auto-group-yzvt-GjE .item--BU8 {
+  width: 65.5rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 110.6117rem;
+  top: 37.0894rem;
+  display: flex;
+  font-size: 3.2rem;
+  font-weight: 600;
+  line-height: 1.175;
+  color: #000000;
+  font-family: Raleway, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.Adnova .auto-group-83gq-hGx .body-pMS .auto-group-yzvt-GjE .item--1xx {
+  width: 59.9rem;
+  height: 16.5rem;
+  position: absolute;
+  left: 110.427rem;
+  top: 43.1056rem;
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 1.175;
+  color: #000000;
+  font-family: Raleway, 'Source Sans Pro';
+}
+.Adnova .auto-group-83gq-hGx .body-pMS .auto-group-yzvt-GjE .vector-1-cLU {
+  width: 50.2691rem;
+  height: 60.2088rem;
+  position: absolute;
+  left: 141.273rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.Adnova .auto-group-83gq-hGx .body-pMS .auto-group-yzvt-GjE .ellipse-7-MJ4 {
+  width: 35.5075rem;
+  height: 28.6rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.Adnova .auto-group-83gq-hGx .body-pMS .auto-group-vjgc-HxQ {
+  margin: 0rem 13.964rem 0rem 14.462rem;
+  width: calc(100% - 28.426rem);
+  height: 39.9558rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.Adnova .auto-group-83gq-hGx .body-pMS .auto-group-vjgc-HxQ .auto-group-uzxp-biC {
+  margin-right: 5.4494rem;
+  width: 79.0623rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.Adnova .auto-group-83gq-hGx .body-pMS .auto-group-vjgc-HxQ .auto-group-uzxp-biC .rectangle-12-wGG {
+  width: 69.6187rem;
+  height: 4.4172rem;
+  position: absolute;
+  left: 4.6878rem;
+  top: 35.5386rem;
+  filter: blur(6.925rem);
+  background-color: #6ce096;
+  border-radius: 2.5rem;
+}
+.Adnova .auto-group-83gq-hGx .body-pMS .auto-group-vjgc-HxQ .auto-group-uzxp-biC .rectangle-9-YSQ {
+  width: 79.0623rem;
+  height: 39.9558rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #ffffff;
+  border-radius: 2.5rem;
+}
+.Adnova .auto-group-83gq-hGx .body-pMS .auto-group-vjgc-HxQ .auto-group-uzxp-biC .heart-4fe {
+  width: 10.0082rem;
+  height: 10.8782rem;
+  position: absolute;
+  left: 1.2931rem;
+  top: 0.1469rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.Adnova .auto-group-83gq-hGx .body-pMS .auto-group-vjgc-HxQ .auto-group-uzxp-biC .item--CG4 {
+  width: 49.6rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 11.6377rem;
+  top: 3.6215rem;
+  display: flex;
+  font-size: 3.2rem;
+  font-weight: 600;
+  line-height: 1.175;
+  color: #000000;
+  font-family: Raleway, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.Adnova .auto-group-83gq-hGx .body-pMS .auto-group-vjgc-HxQ .auto-group-uzxp-biC .item--dcG {
+  width: 61rem;
+  height: 16.5rem;
+  position: absolute;
+  left: 11.4529rem;
+  top: 9.6375rem;
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 1.175;
+  color: #000000;
+  font-family: Raleway, 'Source Sans Pro';
+}
+.Adnova .auto-group-83gq-hGx .body-pMS .auto-group-vjgc-HxQ .auto-group-bfkx-mVW {
+  margin: 0rem 0rem 0rem 0rem;
+  width: 79.0623rem;
+  height: calc(100% - 0.0001rem);
+  position: relative;
+  flex-shrink: 0;
+}
+.Adnova .auto-group-83gq-hGx .body-pMS .auto-group-vjgc-HxQ .auto-group-bfkx-mVW .rectangle-11-tKE {
+  width: 69.6187rem;
+  height: 4.4172rem;
+  position: absolute;
+  left: 4.4566rem;
+  top: 34.1331rem;
+  filter: blur(6.925rem);
+  background-color: #4600db;
+  border-radius: 2.5rem;
+}
+.Adnova .auto-group-83gq-hGx .body-pMS .auto-group-vjgc-HxQ .auto-group-bfkx-mVW .rectangle-10-QHa {
+  width: 79.0623rem;
+  height: 39.9558rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #ffffff;
+  border-radius: 2.5rem;
+}
+.Adnova .auto-group-83gq-hGx .body-pMS .auto-group-vjgc-HxQ .auto-group-bfkx-mVW .heart-vFv {
+  width: 9.9909rem;
+  height: 10.8782rem;
+  position: absolute;
+  left: 1.2386rem;
+  top: 0.1237rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.Adnova .auto-group-83gq-hGx .body-pMS .auto-group-vjgc-HxQ .auto-group-bfkx-mVW .item--dw2 {
+  width: 65.5rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 11.6377rem;
+  top: 3.6215rem;
+  display: flex;
+  font-size: 3.2rem;
+  font-weight: 600;
+  line-height: 1.175;
+  color: #000000;
+  font-family: Raleway, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.Adnova .auto-group-83gq-hGx .body-pMS .auto-group-vjgc-HxQ .auto-group-bfkx-mVW .item--URr {
+  width: 60.5rem;
+  height: 16.5rem;
+  position: absolute;
+  left: 11.4529rem;
+  top: 9.6376rem;
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 1.175;
+  color: #000000;
+  font-family: Raleway, 'Source Sans Pro';
+}
+.Adnova .auto-group-83gq-hGx .header-316 {
+  width: 192.2498rem;
+  height: 103.9rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background: linear-gradient(258.78deg, #d6e5fc -7.68%, rgba(159, 136, 207, 0) 97.87%);
+}
+.Adnova .auto-group-83gq-hGx .header-316 .ellipse-4-MnU {
+  width: 131rem;
+  height: 68.2rem;
+  position: absolute;
+  left: 2.3rem;
+  top: 14.4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.Adnova .auto-group-83gq-hGx .header-316 .ellipse-5-V7z {
+  width: 86.7rem;
+  height: 42rem;
+  position: absolute;
+  left: 79.7rem;
+  top: 61.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.Adnova .auto-group-83gq-hGx .header-316 .rocket {
+  width: 106.1798rem;
+  height: 103.7rem;
+  position: absolute;
+  left: 82.5601rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.Adnova .auto-group-83gq-hGx .header-316 .item--7v4 {
+  width: 69rem;
+  height: 22.6rem;
+  position: absolute;
+  left: 18rem;
+  top: 28.25rem;
+  display: flex;
+  font-size: 6.4rem;
+  font-weight: 700;
+  line-height: 1.175;
+  color: #000000;
+  font-family: Raleway, 'Source Sans Pro';
+}
+.Adnova .auto-group-83gq-hGx .header-316 .item--Zn4 {
+  width: 54.7rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 18rem;
+  top: 49.05rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.175;
+  color: #151414;
+  font-family: Raleway, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.Adnova .auto-group-83gq-hGx .header-316 .group-54-NDi {
+  width: 42.8rem;
+  height: 11.9rem;
+  position: absolute;
+  left: 18rem;
+  top: 60.1rem;
+  border-radius: 9.1rem;
+}
+.Adnova .auto-group-83gq-hGx .header-316 .group-54-NDi .rectangle-44-6fW {
+  width: 37.7rem;
+  height: 5.2rem;
+  position: absolute;
+  left: 3.7rem;
+  top: 6.7rem;
+  filter: blur(3.17rem);
+  background-color: #4350e0;
+  border-radius: 9.1rem;
+}
+.Adnova .auto-group-83gq-hGx .header-316 .group-54-NDi .rectangle-43-DVE {
+  width: 42.8rem;
+  height: 10.9rem;
+  position: absolute;
+  left: 0;
+  top: 1rem;
+  background-color: #4350e0;
+  border-radius: 9.1rem;
+}
+.Adnova .auto-group-83gq-hGx .header-316 .group-54-NDi .rectangle-42-YnQ {
+  width: 42.8rem;
+  height: 10.9rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #5d6afb;
+  border-radius: 9.1rem;
+}
+
+.tsugino{
+  color: #fff;
+  text-decoration: none;
+}
+
+.Adnova .auto-group-83gq-hGx .header-316 .group-54-NDi .item--Vhe {
+  width: 16.7rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 13.05rem;
+  top: 3.25rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.175;
+  color: #ffffff;
+  font-family: Raleway, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.Adnova .auto-group-83gq-hGx .header-316 .ellipse-6-aDJ {
+  width: 63.0732rem;
+  height: 27.0976rem;
+  position: absolute;
+  left: 0;
+  top: 75.6024rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.Adnova .auto-group-83gq-hGx .header-316 .ellipse-8-X8Y {
+  width: 35.8014rem;
+  height: 30.05rem;
+  position: absolute;
+  left: 0;
+  top: 0rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.Adnova .auto-group-83gq-hGx .header-316 .head-G68 {
+  width: 108.1rem;
+  height: 5.8rem;
+  position: absolute;
+  left: 41.8rem;
+  top: 6.3rem;
+  overflow: hidden;
+}
+.Adnova .auto-group-83gq-hGx .header-316 .head-G68 .group-50-QCL {
+  width: 100%;
+  height: 100%;
+  position: relative;
+}
+.Adnova .auto-group-83gq-hGx .header-316 .head-G68 .group-50-QCL .group-53-N9A {
+  width: 108.1rem;
+  height: 2.8578rem;
+  position: absolute;
+  left: 0;
+  top: 1.5422rem;
+  display: flex;
+  align-items: flex-start;
+}
+
+.mueno{
+  text-decoration: none;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #2e363e;
+  font-family: Raleway, 'Source Sans Pro';
+ 
+}
+
+.Adnova .auto-group-83gq-hGx .header-316 .head-G68 .group-50-QCL .group-53-N9A .item--Vja {
+  margin-right: 6.4rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #2e363e;
+  font-family: Raleway, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.Adnova .auto-group-83gq-hGx .header-316 .head-G68 .group-50-QCL .group-53-N9A .item--LVJ {
+  margin-right: 58.6rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #2e363e;
+  font-family: Raleway, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.Adnova .auto-group-83gq-hGx .header-316 .head-G68 .group-50-QCL .group-53-N9A .menu-qgx {
+  margin-top: 0.4578rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.Adnova .auto-group-83gq-hGx .header-316 .head-G68 .group-50-QCL .group-53-N9A .menu-qgx .item--bRE {
+  margin-right: 4.1rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #2e363e;
+  font-family: Raleway, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.Adnova .auto-group-83gq-hGx .header-316 .head-G68 .group-50-QCL .group-53-N9A .menu-qgx .item--tfE {
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #2e363e;
+  font-family: Raleway, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.Adnova .auto-group-83gq-hGx .header-316 .head-G68 .group-50-QCL .adnova-Pbz {
+  width: 20.8rem;
+  height: 5.8rem;
+  position: absolute;
+  left: 43.85rem;
+  top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 4.8rem;
+  font-weight: 700;
+  line-height: 1.2;
+  color: #000000;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.Adnova .footer-a-cUk {
+  margin: 0rem 9.2rem 0rem 7.95rem;
+  width: calc(100% - 17.15rem);
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.Adnova .footer-a-cUk .auto-group-ntp4-w1E {
+  margin-bottom: 9.1rem;
+  height: 11.9rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.Adnova .footer-a-cUk .auto-group-ntp4-w1E .adnova-fT2 {
+  margin: 0rem 90.55rem 0.4rem 0rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 6.4rem;
+  font-weight: 800;
+  line-height: 1.175;
+  color: #000000;
+  font-family: Raleway, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.Adnova .footer-a-cUk .auto-group-ntp4-w1E .line-1-yCp {
+  width: 0.1rem;
+  height: 11.9rem;
+  background-color: #808080;
+  flex-shrink: 0;
+}
+.Adnova .footer-a-cUk .auto-group-ntp4-w1E .auto-group-hk2c-usA {
+  box-sizing: border-box;
+  padding: 0.05rem 0rem 0.099rem 3.9rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.Adnova .footer-a-cUk .auto-group-ntp4-w1E .auto-group-hk2c-usA .auto-group-cnus-EeY {
+  margin-right: 4.4215rem;
+  width: 36.4rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.Adnova .footer-a-cUk .auto-group-ntp4-w1E .auto-group-hk2c-usA .auto-group-cnus-EeY .item--P1e {
+  margin-bottom: 2.9504rem;
+  display: flex;
+  font-size: 3.2rem;
+  font-weight: 500;
+  line-height: 1.175;
+  letter-spacing: -0.048rem;
+  color: #000000;
+  font-family: Raleway, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.Adnova .footer-a-cUk .auto-group-ntp4-w1E .auto-group-hk2c-usA .auto-group-cnus-EeY .auto-group-1wxs-dwa {
+  margin-left: 0.2rem;
+  width: calc(100% - 0.2rem);
+  height: 5.0003rem;
+  display: flex;
+  align-items: center;
+}
+.Adnova .footer-a-cUk .auto-group-ntp4-w1E .auto-group-hk2c-usA .auto-group-cnus-EeY .auto-group-1wxs-dwa .google-NeG {
+  margin-right: 5.5428rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.Adnova .footer-a-cUk .auto-group-ntp4-w1E .auto-group-hk2c-usA .auto-group-cnus-EeY .auto-group-1wxs-dwa .google-NeG .vector-WVa {
+  margin: 0rem 0.188rem 1.12rem 0rem;
+  width: 3.7874rem;
+  height: 3.8806rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.Adnova .footer-a-cUk .auto-group-ntp4-w1E .auto-group-hk2c-usA .auto-group-cnus-EeY .auto-group-1wxs-dwa .google-NeG .vector-2Tv {
+  margin: 0.264rem 0.222rem 0rem 0rem;
+  width: 2.5102rem;
+  height: 2.4979rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.Adnova .footer-a-cUk .auto-group-ntp4-w1E .auto-group-hk2c-usA .auto-group-cnus-EeY .auto-group-1wxs-dwa .google-NeG .vector-kPv {
+  margin: 0.262rem 0.214rem 0rem 0rem;
+  width: 2.5083rem;
+  height: 2.4969rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.Adnova .footer-a-cUk .auto-group-ntp4-w1E .auto-group-hk2c-usA .auto-group-cnus-EeY .auto-group-1wxs-dwa .google-NeG .vector-szL {
+  margin: 1.383rem 0.394rem 0rem 0rem;
+  width: 2.3999rem;
+  height: 3.6174rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.Adnova .footer-a-cUk .auto-group-ntp4-w1E .auto-group-hk2c-usA .auto-group-cnus-EeY .auto-group-1wxs-dwa .google-NeG .vector-cS8 {
+  margin: 0rem 0.272rem 1.062rem 0rem;
+  width: 0.5514rem;
+  height: 3.6709rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.Adnova .footer-a-cUk .auto-group-ntp4-w1E .auto-group-hk2c-usA .auto-group-cnus-EeY .auto-group-1wxs-dwa .google-NeG .vector-wDW {
+  margin-top: 0.2606rem;
+  width: 2.3103rem;
+  height: 2.4984rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.Adnova .footer-a-cUk .auto-group-ntp4-w1E .auto-group-hk2c-usA .auto-group-cnus-EeY .auto-group-1wxs-dwa .youtube-UjE {
+  margin-bottom: 0.2011rem;
+  width: 15.3rem;
+  height: 3.8rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.Adnova .footer-a-cUk .auto-group-ntp4-w1E .auto-group-hk2c-usA .jdcom-1z4 {
+  margin-bottom: 0.2047rem;
+  width: 15.1391rem;
+  height: 3.9228rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.Adnova .footer-a-cUk .rectangle-kgk {
+  margin: 0rem 0rem 2.668rem 0.05rem;
+  width: 152rem;
+  height: 0.1rem;
+  background-color: rgba(0, 0, 0, 0.5);
+  flex-shrink: 0;
+}
+.Adnova .footer-a-cUk .auto-group-ucvq-f32 {
+  margin-left: 0.05rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.Adnova .footer-a-cUk .auto-group-ucvq-f32 .adnova-2023--bBa {
+  margin: 1.532rem 38.35rem 0rem 0rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.6;
+  letter-spacing: -0.0225rem;
+  color: rgba(0, 0, 0, 0.8000000119);
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.Adnova .footer-a-cUk .auto-group-ucvq-f32 .adnovajutsu-7-143-555-22-28-FG8 {
+  margin: 0.932rem 24.85rem 0rem 0rem;
+  max-width: 41.7rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 800;
+  line-height: 1.1740000248;
+  color: #000000;
+  font-family: Raleway, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.Adnova .footer-a-cUk .auto-group-ucvq-f32 .adnovajutsu-7-143-555-22-28-FG8 .adnovajutsu-7-143-555-22-28-FG8-sub-0 {
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.175;
+  color: #000000;
+  font-family: Raleway, 'Source Sans Pro';
+}
+.Adnova .footer-a-cUk .auto-group-ucvq-f32 .adnovajutsu-7-143-555-22-28-FG8 .adnovajutsu-7-143-555-22-28-FG8-sub-1 {
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.175;
+  text-decoration-line: underline;
+  color: #000000;
+  font-family: Raleway, 'Source Sans Pro';
+}
+.Adnova .footer-a-cUk .auto-group-ucvq-f32 .adnovajutsu-7-143-555-22-28-FG8 .adnovajutsu-7-143-555-22-28-FG8-sub-2 {
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.175;
+  text-decoration-line: underline;
+  color: #000000;
+  font-family: Raleway, 'Source Sans Pro';
+}
+.Adnova .footer-a-cUk .auto-group-ucvq-f32 .item--cRS {
+  margin: 1.532rem 3.5rem 0rem 0rem;
+  text-align: right;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.6;
+  letter-spacing: -0.0225rem;
+  color: rgba(0, 0, 0, 0.8000000119);
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.Adnova .footer-a-cUk .auto-group-ucvq-f32 .discord-ssA {
+  margin: 0.532rem 2.383rem 0rem 0rem;
+  width: 4.4rem;
+  height: 4.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.Adnova .footer-a-cUk .auto-group-ucvq-f32 .twitter-1Cg {
+  margin:0.5rem 2rem 7.904rem 0rem;
+  box-sizing: border-box;
+  padding: 1.2849rem 1.2878rem;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/bg.png');
+  flex-shrink: 0;
+}
+.Adnova .footer-a-cUk .auto-group-ucvq-f32 .twitter-1Cg .twitter-Xgp {
+  width: 2.5756rem;
+  height: 1.7583rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.Adnova .footer-a-cUk .auto-group-ucvq-f32 .telegram-3v4 {
+  margin-top: 0.5317rem;
+  width: 4.4rem;
+  height: 4.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}

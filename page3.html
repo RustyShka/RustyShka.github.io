@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles/page3.css">
+    <title>Document</title>
+</head>
+<body>
+    <header>
+        <nav>
+            <a href="index.html">Вопросы</a>
+            <a href="index.html">Особенности</a>
+            <a href="index.html" class="header-title" >ADNOVA</a>
+            <a href="page3.html">Отзывы</a>
+            <a href="page2.html">Оставьте заявку</a>
+          </nav>
+    </header>
+
+    <div class="mari-title">
+        <p>Более 1300 предпринимателей по всей России  уже воспользовались нашим продуктом</p>
+    </div>
+
+    <div class="line">
+        <div class="prew">
+            <p><</p>
+        </div>
+
+        <section id="mewo">
+            <div class="reviwe">
+                <div class="basil-title">
+                    <p>Увеличение Продаж</p>
+                </div>
+                <div class="basil-caption">
+                    <p>"Сотрудничество с данной маркетинговой компанией принесло нам удивительные результаты. Их стратегия таргетированной рекламы привела к заметному увеличению наших продаж. Работают профессионалы, понимающие, как сделать бренд видимым и привлекательным для целевой аудитории."</p>
+                </div>
+            </div>
+            <div class="sweetheart">
+                <img src="assets/vova.png" alt="">
+                <p class="name">Вова А.</p>
+            </div>
+        </section>
+        <section id="mewo2" style="display: none;">
+            <div class="reviwe">
+                <div class="basil-title">
+                    <p>Креативные Решения</p>
+                </div>
+                <div class="basil-caption">
+                    <p>Нам пришлось столкнуться с конкуренцией, и благодаря креативным решениям этой маркетинговой компании, наш бренд выделился на рынке. Их команда создала уникальные рекламные материалы, которые вызвали яркий отклик у целевой аудитории. Очень рекомендуем!</p>
+                </div>
+            </div>
+            <div class="sweetheart" >
+                <img src="assets/roblox.png" alt="">
+                <p class="name">Макс Барский</p>
+            </div>
+        </section>
+        <section id="mewo3" style="display: none;">
+            <div class="reviwe">
+                <div class="basil-title">
+                    <p>Прозрачность и Результаты</p>
+                </div>
+                <div class="basil-caption">
+                    <p>Одно из самых ценных качеств этой маркетинговой компании - это прозрачность в работе. Мы всегда в курсе процессов и получаем подробные отчеты о результатах. Их аналитический подход позволяет точно измерять эффективность каждой кампании. Спасибо за профессионализм и результаты!</p>
+                </div>
+            </div>
+            <div class="sweetheart">
+                <img src="assets/fish.png" alt="">
+                <p class="name">Данил антипов</p>
+            </div>
+        </section>
+
+        <div class="next">
+            <p>></p>
+        </div>
+    </div>
+
+    <footer>
+        <div class="f-shadow"></div>
+        <div class="footer">
+          <div class="f-logo">
+            <p>AdNova</p>
+          </div>
+          <div class="our-partners">
+            <div class="f-title">
+              <p>Наши пратнёры:</p>
+            </div>
+            <div class="f-img">
+              <img src="assets/Google.svg" alt="">
+              <img src="assets/Youtube.svg" alt="">
+              <img src="assets/Jdcom.svg" alt="">
+            </div>
+          </div>
+        </div>
+        <div class="copyright">
+          <p class="cr">© AdNova. 2023. Все права защищены!</p>
+          <p class="adr">Астрахань, ул. Адмиралтейская 5А<br>
+            AdNova@jut.su<br>
+            +7 (143) 555-22-28<br>
+          </p>
+          <div class="links">
+            <img src="assets/discord.svg" alt="">
+            <img src="assets/twitter.svg" alt="">
+            <img src="assets/telegram.svg" alt="">
+          </div>
+        </div>
+      </footer>
+    <script>
+        let b = 1
+
+        let mewo = document.querySelector('#mewo')
+        let mewo2 = document.querySelector('#mewo2')
+        let mewo3 = document.querySelector('#mewo3')
+
+        let next = document.querySelector('.next')
+        let prew = document.querySelector('.prew')
+
+        next.addEventListener('click', ()=>{
+            b += 1
+            if(b == 1){
+                mewo.style.display = 'flex'
+                mewo2.style.display = 'none'
+                mewo3.style.display = 'none'
+            }
+            if(b == 2){
+                mewo.style.display = 'none'
+                mewo2.style.display = 'flex'
+                mewo3.style.display = 'none'
+            }
+            if(b == 3){
+                mewo.style.display = 'none'
+                mewo2.style.display = 'none'
+                mewo3.style.display = 'flex'
+
+                b = 0
+            }
+            if(b>3){
+                b = 1
+                mewo.style.display = 'flex'
+                mewo2.style.display = 'none'
+                mewo3.style.display = 'none'
+            }
+        })
+
+        prew.addEventListener('click', ()=>{
+            b -= 1
+            console.log(b);
+            if(b == 0){
+                mewo.style.display = 'none'
+                mewo2.style.display = 'none'
+                mewo3.style.display = 'flex'
+
+                b = 3
+            }
+            if(b == 2){
+                mewo.style.display = 'none'
+                mewo2.style.display = 'none'
+                mewo3.style.display = 'flex'
+            }
+            if(b == 1){
+                mewo.style.display = 'flex'
+                mewo2.style.display = 'none'
+                mewo3.style.display = 'none'
+
+
+            }
+            if(b == 3){
+                mewo.style.display = 'none'
+                mewo2.style.display = 'flex'
+                mewo3.style.display = 'none'
+
+
+            }
+
+            if(b<0){
+                b = 3
+                mewo.style.display = 'none'
+                mewo2.style.display = 'none'
+                mewo3.style.display = 'flex'
+            }
+
+            if(b>3){
+                b = 1
+                mewo.style.display = 'flex'
+                mewo2.style.display = 'none'
+                mewo3.style.display = 'none'
+            }
+        })
+
+
+    </script>
+</body>
+</html>

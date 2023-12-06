@@ -1,0 +1,204 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    width: 1070px;
+    padding: 50px 0;
+}
+
+nav a{
+    color: var(--1, #2E363E);
+font-family: Arial, Helvetica, sans-serif;
+font-size: 16px;
+font-style: normal;
+font-weight: 500;
+line-height: 150%; /* 24px */
+text-decoration: none;
+margin: auto;
+}
+header{
+    display: flex;
+    justify-content: center;
+}
+
+.header-title{
+    color: #000;
+text-align: center;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 38px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+
+.mari-title p{
+    color: var(--1, #2E363E);
+text-align: center;
+
+/* Заголовки / 36px, Bold */
+font-family: Arial, Helvetica, sans-serif;
+font-size: 36px;
+font-style: normal;
+font-weight: 700;
+line-height: 133%; /* 47.88px */
+
+width: 1180px;
+margin: auto;
+
+padding: 30px 0;
+}
+
+.line section{
+    width: 894px;
+    height: 475px;
+    display: flex;
+
+    border-radius: 5px;
+border: 2px solid var(--10, #E2EAF2);
+background: var(--, #FFF);
+box-shadow: 2px 8px 9px -49px rgba(194, 198, 208, 0.06);
+padding: 50px;
+margin: 100px 0;
+
+transition: 500ms;
+}
+
+.basil-title p{
+    color: var(--1, #2E363E);
+font-family: Arial, Helvetica, sans-serif;
+font-size: 30px;
+font-style: normal;
+font-weight: 500;
+line-height: 143%; /* 42.9px */
+}
+
+.basil-caption p{
+    color: #2E363E;
+
+/* Текст / 15px, regular (170%) */
+font-family: Arial, Helvetica, sans-serif;
+font-size: 15px;
+font-style: normal;
+font-weight: 400;
+line-height: 170%; /* 25.5px */
+}
+
+.sweetheart .name{
+    color: var(--1, #2E363E);
+text-align: center;
+
+/* Текст / 21px, Medium */
+font-family: Arial, Helvetica, sans-serif;
+font-size: 21px;
+font-style: normal;
+font-weight: 500;
+line-height: 143%; /* 30.03px */
+}
+
+.line{
+    display: flex;
+    justify-content: space-around;
+
+    /* width: 3148px; */
+    overflow: hidden;
+}
+
+.prew p, .next P{
+    font-size: 30px;
+    padding: 20px 30px;
+    border-radius: 50%;
+    border: 1px solid #000;
+}
+
+.prew, .next{
+    margin: auto;
+}
+
+footer{
+    margin: 4vw;
+    margin-top: 8vw;
+  }
+  
+  
+  footer .f-logo{
+    color: #000;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 3vw;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+  }
+  
+  .footer{
+    display: flex;
+    justify-content: space-between;
+    padding: 2vw 0;
+  }
+  
+  footer .our-partners{
+    border-left: 1px solid #808080;
+  }
+  
+  .footer .f-img img{
+    width: 7vw;
+    height: 7vh;
+    margin:  0.5vw;
+    margin-bottom: 0;
+  
+  }
+  
+  
+  .f-title{
+    color: #000;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.3vw;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin:  0.5vw;
+    margin-left: 0.5vw;
+  
+  
+  }
+  
+  footer .copyright{
+    display: flex;
+    justify-content: space-between;
+  
+    border-top: 1px solid #808080;
+    padding-top: 4vh;
+  }
+  
+  footer .copyright p.cr{
+    color: rgba(0, 0, 0, 0.80);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1vw;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px; /* 160% */
+    letter-spacing: -0.225px;
+  }
+  
+  footer .copyright p.adr{
+    color: #000;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.3vw;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+  }
+  
+  footer .links{
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  footer .copyright .links img{
+    width: 3vw;
+    margin: 0 1vw;
+  }
